@@ -1,0 +1,15 @@
+{
+    "name": "bulario",
+    "version": "1.0.0",
+    "description": "Biblioteca para obter informações de medicamentos registrados na ANVISA",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "iury.landin",
+    "license": "MIT",
+    "dependencies": {
+        "https": "^1.0.0",
+        "node-fetch": "^2.6.1"
+    }
+}
