@@ -53,8 +53,8 @@ async function pesquisar(nomeProduto, pagina = 1) {
             "cookie": "_TRAEFIK_BACKEND=http://10.0.2.51:8080; FGTServer=2DE20D8040A1176F71792EB219E8DA9BCEDF996805D330F1AFAB13D5103423AE685570373EACB70B61CDD992CE85"
         },
     });
-    // const medicines = await response.json();
-    return response;
+    const medicines = await response.json();
+    return medicines;
 }
 
 async function filtrar(filtro, pagina = 1) {
