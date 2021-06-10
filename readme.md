@@ -2,6 +2,14 @@
 
 Essa biblioteca realiza uma pesquisa no portal da ANVISA, retornando detalhes de medicamentos.
 
+---
+
+**Instalação**
+```sh
+npm install bulario
+```
+---
+
 **Funcionalidades**
 - Pesquisar medicamentos (busca simples pelo nome)
 - Pesquisa avançada de medicamentos (filtro pela categoria e nome)
@@ -80,6 +88,12 @@ const bulario = require('bulario');
 ```
 
 #### Contato
-Você tem dúvidas ou sugestões? Envie para mim no telegram
+Você tem dúvidas ou sugestões? fale comigo através das redes sociais ou deixe um issue.
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iurylandin)
+----
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iurylandin) 
+
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iury.landin/) 
+
+[![Instagram Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iury-landin-b94b74133/)
