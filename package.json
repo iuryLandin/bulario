@@ -1,6 +1,6 @@
 {
     "name": "bulario",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Biblioteca para obter informações de medicamentos registrados na ANVISA",
     "main": "index.js",
     "scripts": {
