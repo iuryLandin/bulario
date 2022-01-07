@@ -1,6 +1,6 @@
 const bulario = require('./src');
 
-(async() => {
+(async () => {
 
     const busca = await bulario.pesquisar('dipirona')
     console.log(`\n INFORMAÇÕES DA PESQUISA`, busca)
